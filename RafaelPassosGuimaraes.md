@@ -19,15 +19,13 @@
 
 ##Projetos
 
->**Desenvolvimento, hospedagem e manutenção de website e serviço de e-mail**
-
 >>**[Oficina Construtora](https://www.oficinaconstrutora.com.br/)**
 
->>>**Tecnologias aplicadas**: PHP, Zend FrameWork, HTML5, CSS, Javascript e JQuery
+>>>*Tecnologias aplicadas*: PHP, Zend FrameWork, HTML5, CSS, Javascript e JQuery
 
 >>**[SombrasMil - Sombreadores e Telas Agrícolas](https://www.sombrasmil.com.br/)**
 
->>>**Tecnologias aplicadas**: PHP, Zend FrameWork, HTML5, CSS, Javascript e JQuery
+>>>*Tecnologias aplicadas*: PHP, Zend FrameWork, HTML5, CSS, Javascript e JQuery
 
 ##Formação acadêmica
 
@@ -46,27 +44,27 @@
 
 >>*Lógica de programação essencial* - [Certificado A239D467](https://certificates.digitalinnovation.one/A239D467)
 
->>*Introdução à programação com Python* -  [Certificado 4B8A0866](4B8A0866)
+>>*Introdução à programação com Python* -  [Certificado 4B8A0866](https://certificates.digitalinnovation.one/4B8A0866)
 
->>*Introdução aos Conceitos de Serverless e Azure Functions* - [Certificado E8A6EDE1](E8A6EDE1)
+>>*Introdução aos Conceitos de Serverless e Azure Functions* - [Certificado E8A6EDE1](https://certificates.digitalinnovation.one/E8A6EDE1)
 
->>*Introdução ao PHP* - [Certificado B5D25584](B5D25584)
+>>*Introdução ao PHP* - [Certificado B5D25584](https://certificates.digitalinnovation.one/B5D25584)
 
->>*Introdução ao GitHub e comandos para trabalhar em equipe* - [Certificado A7AFDDFE](A7AFDDFE)
+>>*Introdução ao GitHub e comandos para trabalhar em equipe* - [Certificado A7AFDDFE](https://certificates.digitalinnovation.one/A7AFDDFE)
 
->>*Introdução ao Git e Controle de Versões* - [Certificado 648F14A4](648F14A4)
+>>*Introdução ao Git e Controle de Versões* - [Certificado 648F14A4](https://certificates.digitalinnovation.one/648F14A4)
 
->>*Fundamentos do Azure* - [Certificado 3D659823](3D659823)
+>>*Fundamentos do Azure* - [Certificado 3D659823](https://certificates.digitalinnovation.one/3D659823)
 
->>*Fundamentos da Computação em Nuvem* - [Certificado 42DCA140](42DCA140)
+>>*Fundamentos da Computação em Nuvem* - [Certificado 42DCA140](https://certificates.digitalinnovation.one/42DCA140)
 
->>*Desenvolvimento de software com Azure Static Web Apps e GitHub Actions* - [Certificado 92AA7F5F](92AA7F5F)
+>>*Desenvolvimento de software com Azure Static Web Apps e GitHub Actions* - [Certificado 92AA7F5F](https://certificates.digitalinnovation.one/92AA7F5F)
 
->>*Criando um repositório para seus projetos inovadores* - [Certificado 7D03CDCE](7D03CDCE)
+>>*Criando um repositório para seus projetos inovadores* - [Certificado 7D03CDCE](https://certificates.digitalinnovation.one/7D03CDCE)
 
->>*Construindo páginas para internet com Bootstrap* - [Certificado 7BDBB658](7BDBB658)
+>>*Construindo páginas para internet com Bootstrap* - [Certificado 7BDBB658](https://certificates.digitalinnovation.one/7BDBB658)
 
->>*Bootcamp Cloud Computing & Serverless* - [Certificado E5801234](E5801234)
+>>*Bootcamp Cloud Computing & Serverless* - [Certificado E5801234](https://certificates.digitalinnovation.one/E5801234)
 
 >**2015**
 
@@ -133,8 +131,11 @@
 >**2005**
 
 >>**[IBTA - Instituto Brasileiro de Técnologia Avançada](https://unibta.edu.br/)**
+
 >>*Instalando a infra-estrutura de rede no Windows 2000*
+
 >>*Instalando o Microsoft Windows 2000 Professional e Server*
+
 >>*Conceitos básicos de redes e do sistema operacional Windows 2000*
 
 >**2001**
@@ -152,50 +153,16 @@
 
 >**Sistemas operacionais**
 
->>MS Windows
-
->>Linux
+>>MS Windows, Linux e Android
 
 >**Serviços**
 
->>WEB (Apache)
-
->>E-mail
-
->>Gerenciamento de usuários e recursos (Active Directory)
-
->>DNS
-
->>DHCP
-
->>FTP
+>>WEB (Apache), E-mail, Gerenciamento de usuários e recursos (Active Directory), DNS, DHCP e FTP
 
 >**Bancos de dados**
 
->>MS SQL
-
->>Oracle
-
->>MySQL
+>>MS SQL, Oracle e MySQL
 
 >**Linguagens de programação**
 
->>Javascript
-
->>PHP
-
->>HTML
-
->>CSS
-
->>Python
-
->**Manutenção de Equipamentos**
-
->>Computadores
-
->>Notebooks
-
->>Cabeamento e equipamentos de rede
-
->>Impressoras
+>>Javascript, PHP, HTML, CSS e Python
