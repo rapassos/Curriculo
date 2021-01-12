@@ -2,7 +2,4 @@ Eu sou **Rafael Passo Guimarães** e este repositório foi criado para disponibi
 
   * Docx - Microsoft Word:  [GitHub](https://github.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.docx) | [GitLab](https://gitlab.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.docx)
   * PDF - Portable Document Format: [GitHub](https://github.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.pdf) | [GitLab](https://gitlab.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.pdf)
-  * HTML - HyperText Markup Language:   [GitHub](https://github.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.html) | [GitLab](https://gitlab.com/rapassos/Curriculo/raw/master/RafaelPassosGuimaraes.html)
-
-> Caso tenha dificuldade no download, tente clicar o botão direito do mouse sobre o link e selecionar a opção "Salvar link como" ou "Fazer download do link"
 
